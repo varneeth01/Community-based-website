@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items:center;
+  font-family: 'Rubik Doodle Shadow', system-ui;
+  
+}
+.maindiv {
+  background:black;
+  color:white;
+  font-family: 'Rubik Doodle Shadow', system-ui;
+}
+.maindiv2 {
+  font-family: 'Rubik Doodle Shadow', system-ui;
+  display:block;
+}
