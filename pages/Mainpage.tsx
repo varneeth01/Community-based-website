@@ -69,3 +69,6 @@ const MainPage = () => {
 };
 
 export default MainPage;
+
+
+//main page 
